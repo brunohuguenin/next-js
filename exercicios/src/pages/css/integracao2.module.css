@@ -1,0 +1,31 @@
+.bloco1 {
+  background: black;
+  font-size: 2rem;
+  width: 10rem;
+  height: 7rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+  margin-bottom: 10px;
+}
+
+.bloco2 {
+  background: skyblue;
+  font-size: 2rem;
+  width: 10rem;
+  height: 7rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+  margin-bottom: 10px;
+}
+
+.bloco3 {
+  background: tomato;
+  font-size: 2rem;
+  width: 10rem;
+  height: 7rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+}

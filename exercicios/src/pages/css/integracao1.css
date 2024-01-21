@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  gap: 5px;
+}
+
+.vermelha {
+  color: red;
+  background: black;
+  font-size: 2rem;
+  width: 15rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+  font-family: monospace;
+}
+
+.azul {
+  color: skyblue;
+  background: black;
+  font-size: 2rem;
+  width: 15rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+  font-family: monospace;
+}
+
+.branco {
+  color: white;
+  background: black;
+  font-size: 2rem;
+  width: 15rem;
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px 0;
+  font-family: monospace;
+}

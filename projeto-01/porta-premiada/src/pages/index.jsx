@@ -1,9 +1,10 @@
-import Presente from '../../components/Presente';
+import Porta from '../../components/Porta';
+// import Presente from '../../components/Presente';
 
 const index = () => {
   return (
     <div>
-      <Presente />
+      <Porta />
     </div>
   );
 };
